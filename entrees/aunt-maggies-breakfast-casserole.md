@@ -37,4 +37,4 @@ Notes: **In the Dibbern Family, we adjusted the recipe such that we skip the oni
 
 This recipe was shared with the family's church, and my dad customized it over the years to match our tastes. It was originally shared by my Great Aunt Maggie Keating (wife of my mom's mom's older brother a former fire chief from Iowa City where I grew up). I tried this recipe out myself a few weeks before her passing in 2020.
 
-![Original Recipe](aunt-maggies-breakfast-casserole-notes.jpg)
+![Original Recipe](../_images/aunt-maggies-breakfast-casserole-notes.jpg)

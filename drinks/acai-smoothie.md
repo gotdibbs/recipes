@@ -5,7 +5,7 @@ course: smoothie
 
 # Açai Smoothie
 
-![Photo](acai-smoothie.jpg)
+![Photo](../_images/acai-smoothie.jpg)
 
 Yield: **50-60 oz (4 Servings)**
 Prep: **5 min**

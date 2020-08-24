@@ -5,7 +5,7 @@ course: entree
 
 # Zuppa Toscana
 
-![Photo](zuppa-toscana.jpg)
+![Photo](../_images/zuppa-toscana.jpg)
 
 Yield: **4-6 Servings**
 Ready In: **1 hr**

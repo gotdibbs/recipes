@@ -5,7 +5,7 @@ course: entree
 
 # Avocado Chicken Salad
 
-![Photo](avocado-chicken-salad.jpg)
+![Photo](../_images/avocado-chicken-salad.jpg)
 
 Yield: **1-2 Servings**
 Prep: **5 min**

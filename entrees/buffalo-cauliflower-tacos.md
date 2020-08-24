@@ -5,7 +5,7 @@ course: entree
 
 # Buffalo Cauliflower Tacos
 
-![Photo](buffalo-cauliflower-tacos.jpg)
+![Photo](../_images/buffalo-cauliflower-tacos.jpg)
 
 Yield: **8-10 Tacos (4-5 Servings)**
 Prep: **15 min**

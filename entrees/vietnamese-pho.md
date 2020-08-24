@@ -5,7 +5,7 @@ course: entree
 
 # Vietnamese Pho
 
-![Photo](vietnamese-pho.jpg)
+![Photo](../_images/vietnamese-pho.jpg)
 
 Yield: **6 Servings (Or More)**
 Prep: **30 min**

@@ -5,7 +5,7 @@ course: side dish
 
 # Sauteed Zucchini and Spinach with Feta and Arils
 
-![Photo](sauteed-zucchini-and-spinach.jpg)
+![Photo](../_images/sauteed-zucchini-and-spinach.jpg)
 
 Yield: **1/2 Cup (1 Serving)**
 Prep: **5 min**

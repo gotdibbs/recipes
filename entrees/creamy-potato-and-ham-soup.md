@@ -5,7 +5,7 @@ course: entree
 
 # Creamy Potato and Ham Soup
 
-![Photo](creamy-potato-and-ham-soup.jpg)
+![Photo](../_images/creamy-potato-and-ham-soup.jpg)
 
 Yield: **6 Servings**
 Prep: **15 min**

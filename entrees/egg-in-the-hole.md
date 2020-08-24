@@ -5,7 +5,7 @@ course: breakfast
 
 # Egg-in-the-Hole
 
-![Photo](egg-in-the-hole.jpg)
+![Photo](../_images/egg-in-the-hole.jpg)
 
 Yield: **1 (1 Serving)**
 Prep: **5 min**

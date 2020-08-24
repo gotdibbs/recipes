@@ -5,7 +5,7 @@ course: breakfast
 
 # Huel Morning Shake
 
-![Photo](huel-shake.jpg)
+![Photo](../_images/huel-shake.jpg)
 
 Yield: **1 Servings**
 Ready In: **5 min**

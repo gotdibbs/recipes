@@ -5,7 +5,7 @@ course: entree
 
 # Egg Floof Tortillas
 
-![Photo](egg-floof-tortillas.jpg)
+![Photo](../_images/egg-floof-tortillas.jpg)
 
 Yield: **1 Serving**
 Ready In: **15 min**

@@ -5,7 +5,7 @@ course: sauce
 
 # Garlic Aioli
 
-![Photo](garlic-aioli.jpg)
+![Photo](../_images/garlic-aioli.jpg)
 
 Yield: **1 small container**
 Prep: **5 min**

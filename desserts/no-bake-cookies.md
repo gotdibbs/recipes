@@ -5,7 +5,7 @@ course: dessert
 
 # No Bake Cookies
 
-![Photo](no-bake-cookies.jpg)
+![Photo](../_images/no-bake-cookies.jpg)
 
 Yield: **2-3 Dozen**
 

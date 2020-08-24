@@ -5,7 +5,7 @@ course: entree
 
 # Mediterranean Turkey Burgers
 
-![Photo](mediterranean-turkey-burgers.png)
+![Photo](../_images/mediterranean-turkey-burgers.png)
 
 Yield: **4 Burgers (4 Servings)**
 Prep: **5 min**

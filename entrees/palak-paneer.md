@@ -5,7 +5,7 @@ course: entree
 
 # Palak Paneer
 
-![Photo](palak-paneer.jpg)
+![Photo](../_images/palak-paneer.jpg)
 
 ## Ingredients
 

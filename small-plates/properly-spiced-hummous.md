@@ -5,7 +5,7 @@ course: side dish
 
 # Properly Spiced Hummous
 
-![Photo](properly-spiced-hummous.jpg)
+![Photo](../_images/properly-spiced-hummous.jpg)
 
 ## Ingredients
 

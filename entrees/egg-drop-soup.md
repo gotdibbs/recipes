@@ -5,7 +5,7 @@ course: entree
 
 # Egg Drop Soup
 
-![Photo](egg-drop-soup.jpg)
+![Photo](../_images/egg-drop-soup.jpg)
 
 Yield: **4 Servings**
 

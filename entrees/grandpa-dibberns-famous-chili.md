@@ -5,7 +5,7 @@ course: entree
 
 # Grandpa Dibbern's Famous Chili
 
-![Photo](grandpa-dibberns-famous-chili.jpg)
+![Photo](../_images/grandpa-dibberns-famous-chili.jpg)
 
 Yield: **4-6 Servings**
 

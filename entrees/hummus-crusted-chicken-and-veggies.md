@@ -5,7 +5,7 @@ course: entree
 
 # Hummus Crusted Chicken and Veggies
 
-![Photo](hummus-crusted-chicken-and-veggies.jpg)
+![Photo](../_images/hummus-crusted-chicken-and-veggies.jpg)
 
 Yield: **4 Servings**
 Read In: **45 minutes**

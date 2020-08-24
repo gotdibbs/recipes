@@ -5,7 +5,7 @@ course: entree
 
 # Indonesian Chicken Skewers
 
-![Photo](indonesian-chicken-skewers.jpg)
+![Photo](../_images/indonesian-chicken-skewers.jpg)
 
 Yield: **5 Skewers (5 Servings)**
 Prep: **60 min**

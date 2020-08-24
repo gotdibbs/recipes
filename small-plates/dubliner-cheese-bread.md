@@ -5,7 +5,7 @@ course: appetizer
 
 # Dubliner Cheese Bread
 
-![Photo](dubliner-cheese-bread.jpg)
+![Photo](../_images/dubliner-cheese-bread.jpg)
 
 ## Ingredients
 

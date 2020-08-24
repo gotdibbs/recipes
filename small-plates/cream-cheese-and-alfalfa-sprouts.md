@@ -5,7 +5,7 @@ course: snack
 
 # Cream Cheese and Alfalfa Sprouts
 
-![Photo](cream-cheese-and-alfalfa-sprouts.jpg)
+![Photo](../_images/cream-cheese-and-alfalfa-sprouts.jpg)
 
 Yield: **1 Servings**
 Read In: **5 minutes**

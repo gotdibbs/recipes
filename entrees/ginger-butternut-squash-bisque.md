@@ -5,7 +5,7 @@ course: entree
 
 # Ginger Butternut Squash Bisque
 
-![Photo](ginger-butternut-squash-bisque.jpg)
+![Photo](../_images/ginger-butternut-squash-bisque.jpg)
 
 Yield: **6 Servings**
 Prep: **25 min**

@@ -5,7 +5,7 @@ course: appetizer
 
 # Buffalo Chicken Dip
 
-![Photo](buffalo-chicken-dip.jpg)
+![Photo](../_images/buffalo-chicken-dip.jpg)
 
 ## Ingredients
 
