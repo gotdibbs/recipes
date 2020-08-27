@@ -15,11 +15,11 @@ Ready In: **35 minutes**
 
 Measure|Ingredient
 ---|---
-1 Cup|Avocado Oil Mayo *avocado oil is important, adds flavor*
+1/2 Cup|Avocado Oil Mayo *avocado oil is important, adds flavor*
 2 Cloves|Garlic *chopped*
-1 T|Lime Juice
-1 t|Salt
-2 t|Black Pepper
+1 t|Lime Juice
+1/4 t|Salt
+1/2 t|Black Pepper
 
 ## Instructions
 
